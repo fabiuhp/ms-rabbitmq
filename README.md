@@ -1,0 +1,2 @@
+# ms-rabbitmq
+ms-rabbitmq
